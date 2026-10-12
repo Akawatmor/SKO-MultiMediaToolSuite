@@ -1,0 +1,13 @@
+# Update 2026
+
+To use our tools, you need to have some tools
+
+- FFMPEG (Win Build)
+- QAAC
+- FFMPEG-MediaConcept version
+- DEE
+- GPAC with MP4Box
+
+Or better yet, install from this link (archive)
+https://drive.google.com/file/d/1FEZu47EOCWK5ziBcTY_kX50aeT0Mr3N4/view?usp=sharing
+https://1024terabox.com/s/1PJPVEcagC1RmX0cCtSf4iw
