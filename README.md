@@ -17,3 +17,18 @@ This repository contains the simple python tool that you can use with the popula
 * VideoConV2SW.py: GUI tools to converted to H265 via x265 predefine 5 profiles including movies, video tape and animate. This tool also converted SRT subtitle that in embedded in the mkv into the tx3g (non-quicktime compliance in this version) and Dolby AC3, Opus, E-AC3, AAC 5.1 Audio into DPL2 (non-compliance Dolby) AAC at the choosable bitrate, also supported opus 5.1 embedded into mp4
 
 * EditChapV2.py: Simple GUI tool to edit chapter data in the mp4 files.
+
+
+
+---
+
+## Library that needed to run these program (Windows Based)
+* **QAAC** with the 64bit version and 32bit version (need to edit the python file)
+* **DEE** for the ac3 eac3 encoded reference dolby encoder test for version 2.5.1
+* **FFMPEG** from my dist, LibOpus, FDK-AAC
+* **FFMPEG-MC** for the vvc encoder, Xhe-AAC
+* **GPACw/MP4Box from my dist
+* (Comming soon) Reference IAMF Encoder for the surround sound from the IAMF Spec
+* (Comming soon) Exhale
+* (Comming soon) Codec2
+* --
